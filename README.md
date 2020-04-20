@@ -1,0 +1,2 @@
+## Get Advertising Id sample
+
